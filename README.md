@@ -2,6 +2,8 @@
 
 This project is the first task in a machine learning pipeline: preprocessing raw data to prepare it for model training. The dataset used is related to stock prices.
 
+---
+
 ## 📝 Objective
 
 To preprocess a raw dataset to make it ready for machine learning. This includes:
@@ -11,11 +13,16 @@ To preprocess a raw dataset to make it ready for machine learning. This includes
 - ✅ Normalizing or standardizing numerical features
 - ✅ Splitting the dataset into training and testing sets
 
+
+---
+
 ## 📁 Files in This Repository
 
 - `Stock_Prices.csv`: The raw dataset.
 - `model_2.ipynb`: The Jupyter Notebook containing the entire preprocessing pipeline.
 - `__init__.py`: Empty file for module initialization (optional for Python packaging).
+
+---
 
 ## 🛠️ Tools and Libraries Used
 
@@ -23,6 +30,8 @@ To preprocess a raw dataset to make it ready for machine learning. This includes
 - **Pandas**
 - **Scikit-learn**
 - **Jupyter Notebook**
+
+---
 
 ## 🚀 Steps Covered
 
@@ -32,11 +41,9 @@ To preprocess a raw dataset to make it ready for machine learning. This includes
 4. **Feature scaling** – Normalization/Standardization
 5. **Splitting into training and test sets**
 
-## 📌 Usage
+---
 
-To run this project:
+## Author
+**Debaswini**
 
-```bash
-git clone https://github.com/Debaswini-M/Task_1-Data-Preprocessing.git
-cd Task_1-Data-Preprocessing
-jupyter notebook model_2.ipynb
+---
